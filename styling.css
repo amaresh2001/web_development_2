@@ -1,0 +1,24 @@
+body
+{
+    background-color: #d1a362;
+    padding: 0;
+    margin: 0;
+}
+.first
+{
+    background-color: saddlebrown;
+    text-align: center;
+    padding: 70px;
+}
+.second
+{
+    text-align: center;
+    font-size: 20px;
+    color: darkgreen;
+    height: 65px;
+}
+li
+{
+    padding: 10px;
+    display: inline;
+}
